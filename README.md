@@ -71,12 +71,6 @@ The dataset is not included in this repository due to its large size.
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
-4. Run the notebook or script:
-
-```bash
-python your_script.py
-```
-
 ---
 
 ## 🧠 Key Insights
@@ -116,7 +110,7 @@ python your_script.py
 
 ## 👩‍💻 Author
 
-Your Name
+JEMIMA KOKOBE
 
 ---
 
